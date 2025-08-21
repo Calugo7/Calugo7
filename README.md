@@ -1,3 +1,2 @@
 ## Hi there 👋
-**Calugo7/Calugo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 My name is Caleb Lugo and I am a junior in highschool. This is my first time using github or anything related to ai besides ChatGPT. Outside of school I like to play soccer with my friends and go outside. One highlight of summer that I did was go to a bears game. They won 38-0 and look like they could be a playoff team. I am looking forward to learning how to use ai to help with different tasks.
